@@ -1,0 +1,23 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>SJ's Blog# the main title</title>
+  <subtitle>Dev Blog for everyday learning &amp; etc. 학습 내용이나 다양한 글을 올리는 블로그 입니다.</subtitle>
+  <updated>2024-03-01T18:01:36+09:00</updated>
+  <author>
+    <name>Sangjin_Yoon</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Sangjin_Yoon </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+
