@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>SJ Blog</title>
   <subtitle>Dev Blog for everyday learning &amp; etc. 학습 내용이나 다양한 글을 올리는 블로그 입니다.</subtitle>
-  <updated>2024-03-01T21:50:08+09:00</updated>
+  <updated>2024-03-01T22:02:50+09:00</updated>
   <author>
     <name>Sangjin_Yoon</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/%EC%B2%AB-%ED%8F%AC%EC%8A%A4%ED%8A%B8/" rel="alternate" type="text/html" title="첫 포스트" />
     <published>2024-03-01T18:06:00+09:00</published>
   
-    <updated>2024-03-01T18:06:00+09:00</updated>
+    <updated>2024-03-01T21:57:27+09:00</updated>
   
     <id>http://localhost:4000/posts/%EC%B2%AB-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</id>
     <content src="http://localhost:4000/posts/%EC%B2%AB-%ED%8F%AC%EC%8A%A4%ED%8A%B8/" />
@@ -35,8 +35,6 @@
   
     
     <category term="etc" />
-    
-    <category term="life" />
     
   
 
