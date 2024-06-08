@@ -20,11 +20,11 @@ tagline: SJ's Dev Blog
 
 description: >- # used by seo meta and the atom feed
   Dev Blog for everyday learning & etc.
-  학습 내용이나 다양한 글을 올리는 블로그 입니다.
+  학습 및 개발 과정을 기록할 예정입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://sjy2335.github.io"
+url: "https://sjyoon.com"
 
 github:
   username: sjy2335 # change to your github username
@@ -88,7 +88,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/favicons/dev-sj.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
