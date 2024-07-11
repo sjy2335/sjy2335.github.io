@@ -11,14 +11,14 @@ tags: [회고]
 
 3년간 대학 생활을 하며 다양한 개발 작업을 했습니다. 나름 성과도 있었지만, "**작동하는 결과물**"에만 치중하였기에 개발자로서 역량은 아직 부족하다는 생각을 했습니다. 휴학 후 개인적인 학습을 하던 중, 주변에 좋은 평가를 받은 네이버 부스트캠프 공고를 확인하고, 지원을 결심했습니다. 열심히 준비한 서류 작성과 1차 테스트 이후, 2차 테스트 직행이 가능했지만 베이직 입과를 결심하였습니다.
 
-<img alt="img.png" src="../assets/img/basic-review/img.png" width="100%"/>
+<img alt="img.png" src="../assets/img/basic-review/img.png" style="width: 100%; height: auto;"/>
 
 베이직에서 제공되는 특별한 교육의 기회를 놓치고 싶지 않았기에 그러한 선택을 했고, 돌아와 생각해 보니 정말 잘한 결정이었구나 싶습니다.
 
 ## 베이직을 진행하며
 
 **콘텐츠 이용 수칙이 있어 진행되는 미션과 같이 상세한 내용은 담을 수 없습니다.**
-<img alt="img_1.png" src="../assets/img/basic-review/img_1.png" width="100%"/>
+<img alt="img_1.png" src="../assets/img/basic-review/img_1.png" style="width: 100%; height: auto;"/>
 
 2주간 베이직 미션에 참여하며 쉬운 내용도, 어려운 내용도 있었습니다. 가장 마음에 들었던 점은 체계적인 데일리 미션들의 구성입니다. 단순히 난이도를 이야기하는 것이 아니라, 매일매일의 미션을 진행하다 보면 마치 베이직에서 어떤 것들을 얻어가면 좋을지 이야기하는 것 같은 기분이 들었습니다. 베이직을 따라가다 보니 어느새 다양한 분야의 Computer Science 지식, 협업, 프로그래밍 역량 등을 기를 수 있었습니다.
 
@@ -28,11 +28,11 @@ tags: [회고]
 
 ## 마치며..
 
-<img alt="img_2.png" src="../assets/img/basic-review/img_2.png" width="100%"/>
+<img alt="img_2.png" src="../assets/img/basic-review/img_2.png" style="width: 100%; height: auto;"/>
 
 너무 긍정적이고 새로운 경험이었기에 느낀대로 거창하게 작성해 버렸네요. 사실 2주, 주말을 제외하면 10일이라는 짧은 기간이었습니다. 중요한 것은 이런 경험을 앞으로 활용할 저 자신이겠죠. 베이직에 몰입하느라 2차 테스트를 많이 준비하지 못했다고 생각했습니다. 우선 최선을 다하고, 결과에 연연하지 않자 다짐했습니다. 베이직의 **주도적인 학습 경험**을 잊지 않고 코드 작성 이전까지의 프로세스, 좋은 코드 작성을 포함한 모든 다짐들을 되새기기로. 그런데.. 바로 어제!
 
-<img alt="img_3.png" src="../assets/img/basic-review/img_3.png" width="100%"/>
+<img alt="img_3.png" src="../assets/img/basic-review/img_3.png" style="width: 100%; height: auto;"/>
 
 합격 소식을 받아 버렸습니다..! 미션을 수행하며 깊이 생각하고 다양한 코드를 읽었던 것이 하나의 훈련이 되었던 것 같습니다.
 (미션과 테스트가 비슷하다는 것이 아닙니다)
