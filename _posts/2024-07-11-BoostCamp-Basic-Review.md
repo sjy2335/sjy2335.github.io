@@ -1,8 +1,8 @@
 ---
 title: 네이버 부스트캠프 9기 베이직 코스 Review
 date: 2024-07-11 00:14:06 +09:00
-categories: [Naver Boost Camp]
-tags: [회고]
+categories: [Dev, Naver Boost Camp]
+tags: [Retrospect]
 ---
 
 네이버 부스트캠프 9기 베이직 과정을 전체적으로 돌아보며 회고를 작성하려 합니다. 테스트 후기 등은 다른 글에서 작성하겠습니다.
