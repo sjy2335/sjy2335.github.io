@@ -28,7 +28,7 @@ tags: [TIL]
 
 ### AST (Abstract Syntax Tree) 추상 구문 트리
 
-![alt text](image.png)
+![alt text](../assets/img/240717/image.png)
 
 - 소스 코드의 추상 구문 구조의 트리입니다.
 
@@ -190,12 +190,12 @@ xml 혹은 html 소스 코드를 DOM 문서 문자열로 만들어 줍니다. cf
 ### Parsing HTML documents
 
 [HTML Stendard Specification - html parser](https://html.spec.whatwg.org/multipage/parsing.html#html-parser)
-![alt text](image-2.png)
+![alt text](../assets/img/240717/image-2.png)
 
 HTML 파싱 프로세스의 input은 code point(유니코드 포인트)의 stream(연속적인 데이터 흐름)으로 구성되어 있습니다. 이는 tokenization과 tree construction 단계로 전해지고, 그 결과로 Document (DOM) 객체가 나옵니다.
 
 - Tokenization
-  ![alt text](image-3.png)
+  ![alt text](../assets/img/240717/image-3.png)
   먼저, 상태 머신에 대해 알아야 하는데, 이는 위 그림과 같이 특정 조건에 따라 전환되는 상태를 나타내는, 알고리즘의 수학적 추상화 표현입니다.
 
   토큰화는 다음 상태 머신 state machine을 사용하는 것과 같이 구현됩니다.
@@ -249,7 +249,7 @@ Well-formed XML은 XML 문서가 XML의 기본 문법 규칙을 준수하고 있
 1. 데이터 구조화: XML은 데이터의 계층적 구조를 표현할 수 있어 복잡한 데이터 구조를 명확하게 정의할 수 있습니다. 이는 데이터의 표현과 해석을 일관되게 유지하는 데 도움을 줍니다.
 2. 표준화: 플랫폼과 언어에 독립적이어서 다양한 시스템 간에 데이터 교환이 용이합니다.
 3. 확장성: 사용자 정의 태그를 지원하므로 특정 요구사항에 맞게 태그와 구조를 자유롭게 정의할 수 있습니다.
-4. 메타 데이터를 표현하기 좋으며, 태그의 순서가 명확하게 유지된다는 장점도 있습니다.
+4. 메타 데이터를 표현하기 좋으며, 태그의 순서가 명확하게 유지된다는 장점
 
 ### 태그를 찾는 정규 표현식 Regex
 
