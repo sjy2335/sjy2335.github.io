@@ -58,7 +58,8 @@ Business Layer, Application Layer라고도 불리며 비즈니스 로직 수행�
 
 여기서 비즈니스 로직(혹은 도메인 로직)이란 단순한 CRUD 작업이 아니라 요구사항을 만족하기 위해 어떻게 데이터가 저장되고 상호작용하며 수정되는지를 포함합니다.    
 
-![img2.png](img2.png)
+![img2.png](../assets/img/img2.png)
+
 그림 출처: https://hudi.blog/layered-architecture/
 
 위 그림과 같이 Service와 Domain Model을 별개의 계층으로 나누거나, 아예 Domain Model을 Layered Architecture와 별개의 것으로 분리하기도 합니다.

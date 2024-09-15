@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "assets/",
+    "assets/",
+    "../assets"
+  ],
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "assets/img"
+}

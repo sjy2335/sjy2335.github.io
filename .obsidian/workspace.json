@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "994bdfdf5d95047d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadd747957969772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef67058b37cb9f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "636240c97c16e443",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86469418ac163d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5beae2ab159f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8dd4f7edf105750",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb5dd0e90eca122b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "70d5658965252299",
+    "type": "split",
+    "children": [
+      {
+        "id": "a550cb1e48ea1f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4fb46712a6ec8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be4dca8471d4ea5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49bbdd4e4be3237b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dbcf6c140bcc37f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f58bc100b411429",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0ef67058b37cb9f5",
+  "lastOpenFiles": [
+    "_posts/2024-08-31-layered-architecture.md",
+    "assets/img/240831/img.png",
+    "assets/img/img2.png",
+    "assets/img/img2 1.png",
+    "_posts/2024-08-18-TypeScript-HandBook-Study.md",
+    "2024-09-15.md",
+    "assets/img/240717/image-2.png",
+    "assets/img/240717/image.png",
+    "_posts/2024-07-25-240725-TIL.md",
+    "_posts/2024-07-18-240718-TIL.md",
+    "Untitled.md",
+    "_posts/2024-07-11-BoostCamp-Basic-Review.md",
+    "node_modules/stylelint/README.md",
+    "node_modules/run-parallel/README.md",
+    "node_modules/stylelint-scss/README.md",
+    "_posts/2024-07-17-XML-Parser.md",
+    "_posts/2024-08-13-BoostCamp-Challenge-Review.md",
+    "_posts/2024-07-29-240729-TIL.md",
+    "_posts/2024-07-31-240731-TIL.md"
+  ]
+}
