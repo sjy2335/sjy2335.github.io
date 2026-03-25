@@ -36,7 +36,7 @@
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/sjy2335/sjy2335.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
